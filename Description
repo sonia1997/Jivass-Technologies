@@ -1,0 +1,6 @@
+Admin's username: root
+Admin's password: test1234
+This web app aids the user to create his/her own article, if only he/she is logged in without any login issues.
+The user will be able to view all the articles. I have deliberately not concentrated on CSS part of the web app. 
+As it was a task to check for the compatibility issues if any with Django 1.11 and python 2.7.
+The database used was Mysql. I have uploaded the requirements.txt (all the packages that are needed to run this app) file.
